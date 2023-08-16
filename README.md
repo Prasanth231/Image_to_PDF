@@ -1,6 +1,6 @@
 
 # Image To PDF
-By using Telegram bot as an input module it obtains image as an input. By using **Pytesseract** package convert the image into string then by using **Docx** package to Microsoft Word format also by using **docx2pdf** package to convert it into pdf format and send the PDF,Word and Text files as an output to the user. 
+By using the Telegram bot as an input module it obtains images as an input. By using the **Pytesseract** package convert the image into a string then by using the **Docx** package to Microsoft Word format also by using the **docx2pdf** package to convert it into pdf format and send the PDF, Word, and Text files as an output to the user. 
  
 
 ## Installation
@@ -42,5 +42,5 @@ To deploy this Imagetopdf run first install the necessary packages
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/Prasanth231/Image_to_PDF/assets/128634760/83563677-8923-4098-a3be-3eb90b510374)
 
